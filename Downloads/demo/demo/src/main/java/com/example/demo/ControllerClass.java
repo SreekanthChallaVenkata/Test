@@ -10,6 +10,6 @@ public class ControllerClass
     @GetMapping("/sayHellow")
     public String sayHellow()
     {
-        return "Om namah shivaya";
+        return "Om namah shivaya1";
     }
 }
